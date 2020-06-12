@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/thedualspace/Ravenous/static/css/main.e3093e65.chunk.css",
-    "main.js": "/thedualspace/Ravenous/static/js/main.be26977b.chunk.js",
-    "main.js.map": "/thedualspace/Ravenous/static/js/main.be26977b.chunk.js.map",
-    "runtime-main.js": "/thedualspace/Ravenous/static/js/runtime-main.9cef0298.js",
-    "runtime-main.js.map": "/thedualspace/Ravenous/static/js/runtime-main.9cef0298.js.map",
-    "static/js/2.aa8049dc.chunk.js": "/thedualspace/Ravenous/static/js/2.aa8049dc.chunk.js",
-    "static/js/2.aa8049dc.chunk.js.map": "/thedualspace/Ravenous/static/js/2.aa8049dc.chunk.js.map",
-    "index.html": "/thedualspace/Ravenous/index.html",
-    "precache-manifest.f30937911b238e6a9d0ba65d565647bf.js": "/thedualspace/Ravenous/precache-manifest.f30937911b238e6a9d0ba65d565647bf.js",
-    "service-worker.js": "/thedualspace/Ravenous/service-worker.js",
-    "static/css/main.e3093e65.chunk.css.map": "/thedualspace/Ravenous/static/css/main.e3093e65.chunk.css.map",
-    "static/js/2.aa8049dc.chunk.js.LICENSE.txt": "/thedualspace/Ravenous/static/js/2.aa8049dc.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/thedualspace/Ravenous/static/media/background_search_mobile.5d0905e6.jpg"
+    "main.css": "/thedualspace/thedualspace.github.io/static/css/main.6c845ffd.chunk.css",
+    "main.js": "/thedualspace/thedualspace.github.io/static/js/main.6c2f9ba3.chunk.js",
+    "main.js.map": "/thedualspace/thedualspace.github.io/static/js/main.6c2f9ba3.chunk.js.map",
+    "runtime-main.js": "/thedualspace/thedualspace.github.io/static/js/runtime-main.b3cf5a98.js",
+    "runtime-main.js.map": "/thedualspace/thedualspace.github.io/static/js/runtime-main.b3cf5a98.js.map",
+    "static/js/2.9734d618.chunk.js": "/thedualspace/thedualspace.github.io/static/js/2.9734d618.chunk.js",
+    "static/js/2.9734d618.chunk.js.map": "/thedualspace/thedualspace.github.io/static/js/2.9734d618.chunk.js.map",
+    "index.html": "/thedualspace/thedualspace.github.io/index.html",
+    "precache-manifest.22cf447b4ba39ff74469217812505ce4.js": "/thedualspace/thedualspace.github.io/precache-manifest.22cf447b4ba39ff74469217812505ce4.js",
+    "service-worker.js": "/thedualspace/thedualspace.github.io/service-worker.js",
+    "static/css/main.6c845ffd.chunk.css.map": "/thedualspace/thedualspace.github.io/static/css/main.6c845ffd.chunk.css.map",
+    "static/js/2.9734d618.chunk.js.LICENSE.txt": "/thedualspace/thedualspace.github.io/static/js/2.9734d618.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/thedualspace/thedualspace.github.io/static/media/background_search_mobile.5d0905e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cef0298.js",
-    "static/js/2.aa8049dc.chunk.js",
-    "static/css/main.e3093e65.chunk.css",
-    "static/js/main.be26977b.chunk.js"
+    "static/js/runtime-main.b3cf5a98.js",
+    "static/js/2.9734d618.chunk.js",
+    "static/css/main.6c845ffd.chunk.css",
+    "static/js/main.6c2f9ba3.chunk.js"
   ]
 }
