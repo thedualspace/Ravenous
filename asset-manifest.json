@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/thedualspace/thedualspace.github.io/static/css/main.6c845ffd.chunk.css",
-    "main.js": "/thedualspace/thedualspace.github.io/static/js/main.6c2f9ba3.chunk.js",
-    "main.js.map": "/thedualspace/thedualspace.github.io/static/js/main.6c2f9ba3.chunk.js.map",
-    "runtime-main.js": "/thedualspace/thedualspace.github.io/static/js/runtime-main.b3cf5a98.js",
-    "runtime-main.js.map": "/thedualspace/thedualspace.github.io/static/js/runtime-main.b3cf5a98.js.map",
-    "static/js/2.9734d618.chunk.js": "/thedualspace/thedualspace.github.io/static/js/2.9734d618.chunk.js",
-    "static/js/2.9734d618.chunk.js.map": "/thedualspace/thedualspace.github.io/static/js/2.9734d618.chunk.js.map",
-    "index.html": "/thedualspace/thedualspace.github.io/index.html",
-    "precache-manifest.22cf447b4ba39ff74469217812505ce4.js": "/thedualspace/thedualspace.github.io/precache-manifest.22cf447b4ba39ff74469217812505ce4.js",
-    "service-worker.js": "/thedualspace/thedualspace.github.io/service-worker.js",
-    "static/css/main.6c845ffd.chunk.css.map": "/thedualspace/thedualspace.github.io/static/css/main.6c845ffd.chunk.css.map",
-    "static/js/2.9734d618.chunk.js.LICENSE.txt": "/thedualspace/thedualspace.github.io/static/js/2.9734d618.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/thedualspace/thedualspace.github.io/static/media/background_search_mobile.5d0905e6.jpg"
+    "main.css": "/static/css/main.7dbcec8e.chunk.css",
+    "main.js": "/static/js/main.a196ab7a.chunk.js",
+    "main.js.map": "/static/js/main.a196ab7a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6325cf30.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6325cf30.js.map",
+    "static/js/2.80b49be5.chunk.js": "/static/js/2.80b49be5.chunk.js",
+    "static/js/2.80b49be5.chunk.js.map": "/static/js/2.80b49be5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.35816558bb42a2e92f82604823845e2b.js": "/precache-manifest.35816558bb42a2e92f82604823845e2b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7dbcec8e.chunk.css.map": "/static/css/main.7dbcec8e.chunk.css.map",
+    "static/js/2.80b49be5.chunk.js.LICENSE.txt": "/static/js/2.80b49be5.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/static/media/background_search_mobile.5d0905e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3cf5a98.js",
-    "static/js/2.9734d618.chunk.js",
-    "static/css/main.6c845ffd.chunk.css",
-    "static/js/main.6c2f9ba3.chunk.js"
+    "static/js/runtime-main.6325cf30.js",
+    "static/js/2.80b49be5.chunk.js",
+    "static/css/main.7dbcec8e.chunk.css",
+    "static/js/main.a196ab7a.chunk.js"
   ]
 }
